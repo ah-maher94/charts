@@ -1,2 +1,2 @@
 # charts
-Pie Chart - Donut Chart - Line Chart - Bar Chart
+Pie Chart - Doughnut Chart - Bar Chart - Line Chart
